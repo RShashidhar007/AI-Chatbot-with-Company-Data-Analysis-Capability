@@ -7,6 +7,9 @@ Two interfaces are provided:
 
 - Command-line chatbot (`python -m app.main`)
 - Streamlit web app (`streamlit run app/streamlit_app.py`)
+## Project structure
+
+```text
 ai_bi_chatbot/
 ├── app/
 │   ├── __init__.py
